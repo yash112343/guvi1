@@ -105,15 +105,15 @@ guvi_project/
 
 ### 🧾 Register Page
 
-![Register](assets/screenshots/register.png)
+![Register](assets/register.png)
 
 ### 🔐 Login Page
 
-![Login](assets/screenshots/login.png)
+![Login](assets/login.png)
 
 ### 👤 Profile Page
 
-![Profile](assets/screenshots/profile.png)
+![Profile](assets/profile.png)
 
 ---
 
