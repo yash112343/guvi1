@@ -1,0 +1,18 @@
+{
+    "name": "yash/login",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "1.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yash\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaswanth",
+            "email": "yaswanthyaswanth265@gmail.comm"
+        }
+    ]
+}
